@@ -6,12 +6,9 @@ Password Generator using Vanilla Javascript
  -- Responsive Web design.
  -- Pure Javascript Implementation.
 
- ------------    DEFAULT PAGE --------------
+------------------------------------   DEFAULT PAGE -------------------------------------
 
 ![Screenshot 2023-09-01 at 15 04 12](https://github.com/thatgeekyboii/JS-Password-Generator/assets/38050841/08281692-07d3-484e-87b7-de31fd0ed8a0)
-
-
-------------  GENERATING A PASSWORD -------------
 
 ------------------------------------ UPPER AND LOWER CASE SELECTION ------------------------
 ![Screenshot 2023-09-01 at 15 05 09](https://github.com/thatgeekyboii/JS-Password-Generator/assets/38050841/18478ca6-90df-4c67-8d8a-75d23ba977e9)
@@ -22,4 +19,5 @@ Password Generator using Vanilla Javascript
 
 
 ---------------------------------- SYMBOLS SELECTION ----------------------------------------
-![Uploading Screenshot 2023-09-01 at 15.06.43.png…]()
+
+![Screenshot 2023-09-01 at 15 07 37](https://github.com/thatgeekyboii/JS-Password-Generator/assets/38050841/00ac2f8f-6375-4084-b9d4-d3655a16cea4)
